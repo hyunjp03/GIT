@@ -1,0 +1,5 @@
+[console_scripts]
+create_data_dirs = data_preprocessing_pkg.create_data_dirs:main
+move_image = data_preprocessing_pkg.move_image:main
+move_labels = data_preprocessing_pkg.move_labels:main
+

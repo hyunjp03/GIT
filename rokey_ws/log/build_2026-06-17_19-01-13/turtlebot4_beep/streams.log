@@ -1,0 +1,24 @@
+[0.386s] Invoking command in '/home/rokey/rokey_ws/build/turtlebot4_beep': PYTHONPATH=/home/rokey/rokey_ws/build/turtlebot4_beep/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/turtlebot4_beep/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey_ws/build/turtlebot4_beep/build --no-deps symlink_data
+[0.553s] running develop
+[0.657s] running egg_info
+[0.657s] creating turtlebot4_beep.egg-info
+[0.657s] writing turtlebot4_beep.egg-info/PKG-INFO
+[0.657s] writing dependency_links to turtlebot4_beep.egg-info/dependency_links.txt
+[0.657s] writing entry points to turtlebot4_beep.egg-info/entry_points.txt
+[0.657s] writing requirements to turtlebot4_beep.egg-info/requires.txt
+[0.657s] writing top-level names to turtlebot4_beep.egg-info/top_level.txt
+[0.657s] writing manifest file 'turtlebot4_beep.egg-info/SOURCES.txt'
+[0.658s] reading manifest file 'turtlebot4_beep.egg-info/SOURCES.txt'
+[0.659s] writing manifest file 'turtlebot4_beep.egg-info/SOURCES.txt'
+[0.660s] running build_ext
+[0.660s] Creating /home/rokey/rokey_ws/install/turtlebot4_beep/lib/python3.10/site-packages/turtlebot4-beep.egg-link (link to .)
+[0.660s] Installing beep_node script to /home/rokey/rokey_ws/install/turtlebot4_beep/lib/turtlebot4_beep
+[0.660s] 
+[0.660s] Installed /home/rokey/rokey_ws/build/turtlebot4_beep
+[0.661s] running symlink_data
+[0.661s] creating /home/rokey/rokey_ws/install/turtlebot4_beep/share/ament_index
+[0.661s] creating /home/rokey/rokey_ws/install/turtlebot4_beep/share/ament_index/resource_index
+[0.661s] creating /home/rokey/rokey_ws/install/turtlebot4_beep/share/ament_index/resource_index/packages
+[0.661s] symbolically linking /home/rokey/rokey_ws/build/turtlebot4_beep/resource/turtlebot4_beep -> /home/rokey/rokey_ws/install/turtlebot4_beep/share/ament_index/resource_index/packages
+[0.661s] symbolically linking /home/rokey/rokey_ws/build/turtlebot4_beep/package.xml -> /home/rokey/rokey_ws/install/turtlebot4_beep/share/turtlebot4_beep
+[0.676s] Invoked command in '/home/rokey/rokey_ws/build/turtlebot4_beep' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/turtlebot4_beep/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/turtlebot4_beep/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey_ws/build/turtlebot4_beep/build --no-deps symlink_data

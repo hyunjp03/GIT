@@ -1,0 +1,5 @@
+[console_scripts]
+yolo_publisher_amr = amr_yolo_detect.yolo_publisher_amr:main
+yolo_subscriber_amr = amr_yolo_detect.yolo_subscriber_amr:main
+yolov8_obj_det_amr = amr_yolo_detect.yolov8_obj_det_amr:main
+

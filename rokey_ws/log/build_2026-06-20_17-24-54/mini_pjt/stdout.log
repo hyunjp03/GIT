@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing mini_pjt.egg-info/PKG-INFO
+writing dependency_links to mini_pjt.egg-info/dependency_links.txt
+writing entry points to mini_pjt.egg-info/entry_points.txt
+writing requirements to mini_pjt.egg-info/requires.txt
+writing top-level names to mini_pjt.egg-info/top_level.txt
+reading manifest file 'mini_pjt.egg-info/SOURCES.txt'
+writing manifest file 'mini_pjt.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini-pjt.egg-link (link to .)
+Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+
+Installed /home/rokey/rokey_ws/build/mini_pjt
+running symlink_data

@@ -1,0 +1,45 @@
+[0.381s] Invoking command in '/home/rokey/rokey_ws/src/data_preprocessing_pkg': PYTHONPATH=/home/rokey/rokey_ws/build/data_preprocessing_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/data_preprocessing_pkg build --build-base /home/rokey/rokey_ws/build/data_preprocessing_pkg/build install --record /home/rokey/rokey_ws/build/data_preprocessing_pkg/install.log --single-version-externally-managed install_data
+[0.527s] running egg_info
+[0.527s] creating ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info
+[0.527s] writing ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/PKG-INFO
+[0.527s] writing dependency_links to ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/dependency_links.txt
+[0.527s] writing entry points to ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/entry_points.txt
+[0.527s] writing requirements to ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/requires.txt
+[0.527s] writing top-level names to ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/top_level.txt
+[0.527s] writing manifest file '../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/SOURCES.txt'
+[0.529s] reading manifest file '../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/SOURCES.txt'
+[0.529s] writing manifest file '../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info/SOURCES.txt'
+[0.529s] running build
+[0.529s] running build_py
+[0.529s] creating /home/rokey/rokey_ws/build/data_preprocessing_pkg/build
+[0.529s] creating /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib
+[0.529s] creating /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg
+[0.529s] copying data_preprocessing_pkg/create_data_dirs.py -> /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg
+[0.529s] copying data_preprocessing_pkg/move_image.py -> /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg
+[0.529s] copying data_preprocessing_pkg/move_labels.py -> /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg
+[0.529s] copying data_preprocessing_pkg/__init__.py -> /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg
+[0.529s] running install
+[0.529s] running install_lib
+[0.530s] creating /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg
+[0.530s] copying /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg/create_data_dirs.py -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg
+[0.530s] copying /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg/move_image.py -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg
+[0.530s] copying /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg/move_labels.py -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg
+[0.530s] copying /home/rokey/rokey_ws/build/data_preprocessing_pkg/build/lib/data_preprocessing_pkg/__init__.py -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg
+[0.530s] byte-compiling /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg/create_data_dirs.py to create_data_dirs.cpython-310.pyc
+[0.531s] byte-compiling /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg/move_image.py to move_image.cpython-310.pyc
+[0.531s] byte-compiling /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg/move_labels.py to move_labels.cpython-310.pyc
+[0.531s] byte-compiling /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg/__init__.py to __init__.cpython-310.pyc
+[0.531s] running install_data
+[0.531s] creating /home/rokey/rokey_ws/install/data_preprocessing_pkg/share/ament_index
+[0.531s] creating /home/rokey/rokey_ws/install/data_preprocessing_pkg/share/ament_index/resource_index
+[0.531s] creating /home/rokey/rokey_ws/install/data_preprocessing_pkg/share/ament_index/resource_index/packages
+[0.531s] copying resource/data_preprocessing_pkg -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/share/ament_index/resource_index/packages
+[0.531s] copying package.xml -> /home/rokey/rokey_ws/install/data_preprocessing_pkg/share/data_preprocessing_pkg
+[0.532s] running install_egg_info
+[0.533s] Copying ../../build/data_preprocessing_pkg/data_preprocessing_pkg.egg-info to /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages/data_preprocessing_pkg-0.0.0-py3.10.egg-info
+[0.533s] running install_scripts
+[0.546s] Installing create_data_dirs script to /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/data_preprocessing_pkg
+[0.546s] Installing move_image script to /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/data_preprocessing_pkg
+[0.546s] Installing move_labels script to /home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/data_preprocessing_pkg
+[0.546s] writing list of installed files to '/home/rokey/rokey_ws/build/data_preprocessing_pkg/install.log'
+[0.560s] Invoked command in '/home/rokey/rokey_ws/src/data_preprocessing_pkg' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/data_preprocessing_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/data_preprocessing_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/data_preprocessing_pkg build --build-base /home/rokey/rokey_ws/build/data_preprocessing_pkg/build install --record /home/rokey/rokey_ws/build/data_preprocessing_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,46 @@
+[1.171s] Invoking command in '/home/rokey/rokey_ws/src/amr_c2': PYTHONPATH=/home/rokey/rokey_ws/build/mini_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mini_pjt build --build-base /home/rokey/rokey_ws/build/mini_pjt/build install --record /home/rokey/rokey_ws/build/mini_pjt/install.log --single-version-externally-managed install_data
+[1.312s] running egg_info
+[1.313s] creating ../../build/mini_pjt/mini_pjt.egg-info
+[1.313s] writing ../../build/mini_pjt/mini_pjt.egg-info/PKG-INFO
+[1.313s] writing dependency_links to ../../build/mini_pjt/mini_pjt.egg-info/dependency_links.txt
+[1.313s] writing entry points to ../../build/mini_pjt/mini_pjt.egg-info/entry_points.txt
+[1.313s] writing requirements to ../../build/mini_pjt/mini_pjt.egg-info/requires.txt
+[1.313s] writing top-level names to ../../build/mini_pjt/mini_pjt.egg-info/top_level.txt
+[1.313s] writing manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+[1.314s] reading manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+[1.314s] adding license file 'LICENSE'
+[1.315s] writing manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+[1.315s] running build
+[1.315s] running build_py
+[1.316s] creating /home/rokey/rokey_ws/build/mini_pjt/build
+[1.316s] creating /home/rokey/rokey_ws/build/mini_pjt/build/lib
+[1.316s] creating /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+[1.316s] copying mini_pjt/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+[1.316s] copying mini_pjt/yolo_publisher_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+[1.316s] copying mini_pjt/__init__.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+[1.316s] copying mini_pjt/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+[1.316s] running install
+[1.316s] running install_lib
+[1.317s] creating /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+[1.317s] copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+[1.317s] copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolo_publisher_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+[1.317s] copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/__init__.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+[1.318s] copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+[1.318s] byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolov8_obj_det_amr.py to yolov8_obj_det_amr.cpython-310.pyc
+[1.318s] byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolo_publisher_amr.py to yolo_publisher_amr.cpython-310.pyc
+[1.318s] byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/__init__.py to __init__.cpython-310.pyc
+[1.319s] byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolo_subscriber_amr.py to yolo_subscriber_amr.cpython-310.pyc
+[1.319s] running install_data
+[1.319s] creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index
+[1.319s] creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index
+[1.319s] creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index/packages
+[1.319s] copying resource/mini_pjt -> /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index/packages
+[1.319s] copying package.xml -> /home/rokey/rokey_ws/install/mini_pjt/share/mini_pjt
+[1.320s] running install_egg_info
+[1.320s] Copying ../../build/mini_pjt/mini_pjt.egg-info to /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt-0.0.0-py3.10.egg-info
+[1.320s] running install_scripts
+[1.333s] Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[1.333s] Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[1.333s] Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[1.333s] writing list of installed files to '/home/rokey/rokey_ws/build/mini_pjt/install.log'
+[1.365s] Invoked command in '/home/rokey/rokey_ws/src/amr_c2' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/mini_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mini_pjt build --build-base /home/rokey/rokey_ws/build/mini_pjt/build install --record /home/rokey/rokey_ws/build/mini_pjt/install.log --single-version-externally-managed install_data

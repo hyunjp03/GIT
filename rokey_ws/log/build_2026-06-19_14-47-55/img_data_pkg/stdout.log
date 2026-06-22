@@ -1,0 +1,52 @@
+running egg_info
+creating ../../build/img_data_pkg/img_data_pkg.egg-info
+writing ../../build/img_data_pkg/img_data_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/img_data_pkg/img_data_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/img_data_pkg/img_data_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/img_data_pkg/img_data_pkg.egg-info/requires.txt
+writing top-level names to ../../build/img_data_pkg/img_data_pkg.egg-info/top_level.txt
+writing manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rokey/rokey_ws/build/img_data_pkg/build
+creating /home/rokey/rokey_ws/build/img_data_pkg/build/lib
+creating /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/2_0_d_data_subscriber.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/2_0_a_image_publisher.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/2_0_c_data_publisher.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/2_0_b_image_subscriber.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/__init__.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+copying img_data_pkg/capture_photo.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+running install
+running install_lib
+creating /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_d_data_subscriber.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_a_image_publisher.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_c_data_publisher.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_b_image_subscriber.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/__init__.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/capture_photo.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_d_data_subscriber.py to 2_0_d_data_subscriber.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_a_image_publisher.py to 2_0_a_image_publisher.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_c_data_publisher.py to 2_0_c_data_publisher.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_b_image_subscriber.py to 2_0_b_image_subscriber.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/capture_photo.py to capture_photo.cpython-310.pyc
+running install_data
+creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index
+creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index
+creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index/packages
+copying resource/img_data_pkg -> /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg
+creating /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg/images
+copying images/sample.jpg -> /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg/images
+running install_egg_info
+Copying ../../build/img_data_pkg/img_data_pkg.egg-info to /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing data_publisher script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+Installing data_subscriber script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+Installing image_publisher script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+Installing image_subscriber script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+writing list of installed files to '/home/rokey/rokey_ws/build/img_data_pkg/install.log'

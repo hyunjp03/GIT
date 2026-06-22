@@ -1,0 +1,54 @@
+[1.091s] Invoking command in '/home/rokey/rokey_ws/src/img_data_pkg': PYTHONPATH=/home/rokey/rokey_ws/build/img_data_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/img_data_pkg build --build-base /home/rokey/rokey_ws/build/img_data_pkg/build install --record /home/rokey/rokey_ws/build/img_data_pkg/install.log --single-version-externally-managed install_data
+[1.236s] running egg_info
+[1.237s] creating ../../build/img_data_pkg/img_data_pkg.egg-info
+[1.237s] writing ../../build/img_data_pkg/img_data_pkg.egg-info/PKG-INFO
+[1.237s] writing dependency_links to ../../build/img_data_pkg/img_data_pkg.egg-info/dependency_links.txt
+[1.237s] writing entry points to ../../build/img_data_pkg/img_data_pkg.egg-info/entry_points.txt
+[1.237s] writing requirements to ../../build/img_data_pkg/img_data_pkg.egg-info/requires.txt
+[1.237s] writing top-level names to ../../build/img_data_pkg/img_data_pkg.egg-info/top_level.txt
+[1.237s] writing manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+[1.238s] reading manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+[1.238s] writing manifest file '../../build/img_data_pkg/img_data_pkg.egg-info/SOURCES.txt'
+[1.238s] running build
+[1.238s] running build_py
+[1.238s] creating /home/rokey/rokey_ws/build/img_data_pkg/build
+[1.238s] creating /home/rokey/rokey_ws/build/img_data_pkg/build/lib
+[1.239s] creating /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.239s] copying img_data_pkg/2_0_d_data_subscriber.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.243s] copying img_data_pkg/2_0_a_image_publisher.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.247s] copying img_data_pkg/2_0_c_data_publisher.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.249s] copying img_data_pkg/2_0_b_image_subscriber.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.249s] copying img_data_pkg/__init__.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.249s] copying img_data_pkg/capture_photo.py -> /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg
+[1.250s] running install
+[1.250s] running install_lib
+[1.250s] creating /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_d_data_subscriber.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_a_image_publisher.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_c_data_publisher.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/2_0_b_image_subscriber.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/__init__.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.250s] copying /home/rokey/rokey_ws/build/img_data_pkg/build/lib/img_data_pkg/capture_photo.py -> /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_d_data_subscriber.py to 2_0_d_data_subscriber.cpython-310.pyc
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_a_image_publisher.py to 2_0_a_image_publisher.cpython-310.pyc
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_c_data_publisher.py to 2_0_c_data_publisher.cpython-310.pyc
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/2_0_b_image_subscriber.py to 2_0_b_image_subscriber.cpython-310.pyc
+[1.252s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/__init__.py to __init__.cpython-310.pyc
+[1.252s] byte-compiling /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg/capture_photo.py to capture_photo.cpython-310.pyc
+[1.252s] running install_data
+[1.252s] creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index
+[1.252s] creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index
+[1.252s] creating /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index/packages
+[1.252s] copying resource/img_data_pkg -> /home/rokey/rokey_ws/install/img_data_pkg/share/ament_index/resource_index/packages
+[1.252s] copying package.xml -> /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg
+[1.252s] creating /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg/images
+[1.252s] copying images/sample.jpg -> /home/rokey/rokey_ws/install/img_data_pkg/share/img_data_pkg/images
+[1.252s] running install_egg_info
+[1.253s] Copying ../../build/img_data_pkg/img_data_pkg.egg-info to /home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages/img_data_pkg-0.0.0-py3.10.egg-info
+[1.254s] running install_scripts
+[1.267s] Installing data_publisher script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+[1.267s] Installing data_subscriber script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+[1.267s] Installing image_publisher script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+[1.267s] Installing image_subscriber script to /home/rokey/rokey_ws/install/img_data_pkg/lib/img_data_pkg
+[1.267s] writing list of installed files to '/home/rokey/rokey_ws/build/img_data_pkg/install.log'
+[1.293s] Invoked command in '/home/rokey/rokey_ws/src/img_data_pkg' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/img_data_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/img_data_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/img_data_pkg build --build-base /home/rokey/rokey_ws/build/img_data_pkg/build install --record /home/rokey/rokey_ws/build/img_data_pkg/install.log --single-version-externally-managed install_data

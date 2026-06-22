@@ -1,0 +1,52 @@
+[1.104s] Invoking command in '/home/rokey/rokey_ws/src/amr_yolo_detect': PYTHONPATH=/home/rokey/rokey_ws/build/amr_yolo_detect/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_yolo_detect build --build-base /home/rokey/rokey_ws/build/amr_yolo_detect/build install --record /home/rokey/rokey_ws/build/amr_yolo_detect/install.log --single-version-externally-managed install_data
+[1.245s] running egg_info
+[1.245s] creating ../../build/amr_yolo_detect/amr_yolo_detect.egg-info
+[1.246s] writing ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/PKG-INFO
+[1.246s] writing dependency_links to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/dependency_links.txt
+[1.246s] writing entry points to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/entry_points.txt
+[1.246s] writing requirements to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/requires.txt
+[1.246s] writing top-level names to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/top_level.txt
+[1.246s] writing manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+[1.247s] reading manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+[1.248s] writing manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+[1.248s] running build
+[1.248s] running build_py
+[1.248s] creating /home/rokey/rokey_ws/build/amr_yolo_detect/build
+[1.248s] creating /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib
+[1.248s] creating /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/2_4_d_yolov8_obj_det_wc_old.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/2_4_e_yolo_publisher_wc.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/2_4_f_yolo_subscriber_wc.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/img_publisher.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/2_4_e_yolo_publisher_wc_old.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/2_4_d_yolov8_obj_det_wc.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] copying amr_yolo_detect/__init__.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.248s] running install
+[1.248s] running install_lib
+[1.249s] creating /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/2_4_d_yolov8_obj_det_wc_old.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/2_4_e_yolo_publisher_wc.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/2_4_f_yolo_subscriber_wc.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/img_publisher.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/2_4_e_yolo_publisher_wc_old.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/2_4_d_yolov8_obj_det_wc.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/__init__.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.249s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/2_4_d_yolov8_obj_det_wc_old.py to 2_4_d_yolov8_obj_det_wc_old.cpython-310.pyc
+[1.250s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/2_4_e_yolo_publisher_wc.py to 2_4_e_yolo_publisher_wc.cpython-310.pyc
+[1.250s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/2_4_f_yolo_subscriber_wc.py to 2_4_f_yolo_subscriber_wc.cpython-310.pyc
+[1.250s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/img_publisher.py to img_publisher.cpython-310.pyc
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/2_4_e_yolo_publisher_wc_old.py to 2_4_e_yolo_publisher_wc_old.cpython-310.pyc
+[1.251s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/2_4_d_yolov8_obj_det_wc.py to 2_4_d_yolov8_obj_det_wc.cpython-310.pyc
+[1.252s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/__init__.py to __init__.cpython-310.pyc
+[1.252s] running install_data
+[1.252s] creating /home/rokey/rokey_ws/install/amr_yolo_detect/share/ament_index
+[1.252s] creating /home/rokey/rokey_ws/install/amr_yolo_detect/share/ament_index/resource_index
+[1.252s] creating /home/rokey/rokey_ws/install/amr_yolo_detect/share/ament_index/resource_index/packages
+[1.252s] copying resource/amr_yolo_detect -> /home/rokey/rokey_ws/install/amr_yolo_detect/share/ament_index/resource_index/packages
+[1.252s] copying package.xml -> /home/rokey/rokey_ws/install/amr_yolo_detect/share/amr_yolo_detect
+[1.252s] running install_egg_info
+[1.253s] Copying ../../build/amr_yolo_detect/amr_yolo_detect.egg-info to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect-0.0.0-py3.10.egg-info
+[1.254s] running install_scripts
+[1.266s] Installing img_publisher script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+[1.267s] writing list of installed files to '/home/rokey/rokey_ws/build/amr_yolo_detect/install.log'
+[1.284s] Invoked command in '/home/rokey/rokey_ws/src/amr_yolo_detect' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/amr_yolo_detect/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_yolo_detect build --build-base /home/rokey/rokey_ws/build/amr_yolo_detect/build install --record /home/rokey/rokey_ws/build/amr_yolo_detect/install.log --single-version-externally-managed install_data

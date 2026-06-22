@@ -1,0 +1,37 @@
+[0.383s] Invoking command in '/home/rokey/rokey_ws/src/image_capture': PYTHONPATH=/home/rokey/rokey_ws/build/image_capture/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_capture build --build-base /home/rokey/rokey_ws/build/image_capture/build install --record /home/rokey/rokey_ws/build/image_capture/install.log --single-version-externally-managed install_data
+[0.530s] running egg_info
+[0.530s] creating ../../build/image_capture/image_capture.egg-info
+[0.530s] writing ../../build/image_capture/image_capture.egg-info/PKG-INFO
+[0.530s] writing dependency_links to ../../build/image_capture/image_capture.egg-info/dependency_links.txt
+[0.530s] writing entry points to ../../build/image_capture/image_capture.egg-info/entry_points.txt
+[0.530s] writing requirements to ../../build/image_capture/image_capture.egg-info/requires.txt
+[0.530s] writing top-level names to ../../build/image_capture/image_capture.egg-info/top_level.txt
+[0.530s] writing manifest file '../../build/image_capture/image_capture.egg-info/SOURCES.txt'
+[0.532s] reading manifest file '../../build/image_capture/image_capture.egg-info/SOURCES.txt'
+[0.532s] writing manifest file '../../build/image_capture/image_capture.egg-info/SOURCES.txt'
+[0.532s] running build
+[0.532s] running build_py
+[0.532s] creating /home/rokey/rokey_ws/build/image_capture/build
+[0.533s] creating /home/rokey/rokey_ws/build/image_capture/build/lib
+[0.533s] creating /home/rokey/rokey_ws/build/image_capture/build/lib/image_capture
+[0.533s] copying image_capture/2_1_d_capture_image.py -> /home/rokey/rokey_ws/build/image_capture/build/lib/image_capture
+[0.533s] copying image_capture/__init__.py -> /home/rokey/rokey_ws/build/image_capture/build/lib/image_capture
+[0.533s] running install
+[0.533s] running install_lib
+[0.534s] creating /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture
+[0.534s] copying /home/rokey/rokey_ws/build/image_capture/build/lib/image_capture/2_1_d_capture_image.py -> /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture
+[0.534s] copying /home/rokey/rokey_ws/build/image_capture/build/lib/image_capture/__init__.py -> /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture
+[0.534s] byte-compiling /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture/2_1_d_capture_image.py to 2_1_d_capture_image.cpython-310.pyc
+[0.535s] byte-compiling /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture/__init__.py to __init__.cpython-310.pyc
+[0.535s] running install_data
+[0.535s] creating /home/rokey/rokey_ws/install/image_capture/share/ament_index
+[0.535s] creating /home/rokey/rokey_ws/install/image_capture/share/ament_index/resource_index
+[0.535s] creating /home/rokey/rokey_ws/install/image_capture/share/ament_index/resource_index/packages
+[0.535s] copying resource/image_capture -> /home/rokey/rokey_ws/install/image_capture/share/ament_index/resource_index/packages
+[0.535s] copying package.xml -> /home/rokey/rokey_ws/install/image_capture/share/image_capture
+[0.535s] running install_egg_info
+[0.537s] Copying ../../build/image_capture/image_capture.egg-info to /home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages/image_capture-0.0.0-py3.10.egg-info
+[0.538s] running install_scripts
+[0.551s] Installing image_capture_node script to /home/rokey/rokey_ws/install/image_capture/lib/image_capture
+[0.551s] writing list of installed files to '/home/rokey/rokey_ws/build/image_capture/install.log'
+[0.565s] Invoked command in '/home/rokey/rokey_ws/src/image_capture' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/image_capture/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/image_capture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_capture build --build-base /home/rokey/rokey_ws/build/image_capture/build install --record /home/rokey/rokey_ws/build/image_capture/install.log --single-version-externally-managed install_data

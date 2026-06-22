@@ -1,0 +1,44 @@
+running egg_info
+creating ../../build/mini_pjt/mini_pjt.egg-info
+writing ../../build/mini_pjt/mini_pjt.egg-info/PKG-INFO
+writing dependency_links to ../../build/mini_pjt/mini_pjt.egg-info/dependency_links.txt
+writing entry points to ../../build/mini_pjt/mini_pjt.egg-info/entry_points.txt
+writing requirements to ../../build/mini_pjt/mini_pjt.egg-info/requires.txt
+writing top-level names to ../../build/mini_pjt/mini_pjt.egg-info/top_level.txt
+writing manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+reading manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/mini_pjt/mini_pjt.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rokey/rokey_ws/build/mini_pjt/build
+creating /home/rokey/rokey_ws/build/mini_pjt/build/lib
+creating /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+copying mini_pjt/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+copying mini_pjt/yolo_publisher_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+copying mini_pjt/__init__.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+copying mini_pjt/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt
+running install
+running install_lib
+creating /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolo_publisher_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/__init__.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+copying /home/rokey/rokey_ws/build/mini_pjt/build/lib/mini_pjt/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt
+byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolov8_obj_det_amr.py to yolov8_obj_det_amr.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolo_publisher_amr.py to yolo_publisher_amr.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt/yolo_subscriber_amr.py to yolo_subscriber_amr.cpython-310.pyc
+running install_data
+creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index
+creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index
+creating /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index/packages
+copying resource/mini_pjt -> /home/rokey/rokey_ws/install/mini_pjt/share/ament_index/resource_index/packages
+copying package.xml -> /home/rokey/rokey_ws/install/mini_pjt/share/mini_pjt
+running install_egg_info
+Copying ../../build/mini_pjt/mini_pjt.egg-info to /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini_pjt-0.0.0-py3.10.egg-info
+running install_scripts
+Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+writing list of installed files to '/home/rokey/rokey_ws/build/mini_pjt/install.log'

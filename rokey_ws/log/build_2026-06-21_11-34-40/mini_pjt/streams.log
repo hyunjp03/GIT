@@ -1,0 +1,19 @@
+[0.384s] Invoking command in '/home/rokey/rokey_ws/build/mini_pjt': PYTHONPATH=/home/rokey/rokey_ws/build/mini_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey_ws/build/mini_pjt/build --no-deps symlink_data
+[0.554s] running develop
+[0.656s] running egg_info
+[0.656s] writing mini_pjt.egg-info/PKG-INFO
+[0.656s] writing dependency_links to mini_pjt.egg-info/dependency_links.txt
+[0.656s] writing entry points to mini_pjt.egg-info/entry_points.txt
+[0.656s] writing requirements to mini_pjt.egg-info/requires.txt
+[0.656s] writing top-level names to mini_pjt.egg-info/top_level.txt
+[0.657s] reading manifest file 'mini_pjt.egg-info/SOURCES.txt'
+[0.658s] writing manifest file 'mini_pjt.egg-info/SOURCES.txt'
+[0.658s] running build_ext
+[0.659s] Creating /home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages/mini-pjt.egg-link (link to .)
+[0.659s] Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[0.659s] Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[0.659s] Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/mini_pjt/lib/mini_pjt
+[0.659s] 
+[0.659s] Installed /home/rokey/rokey_ws/build/mini_pjt
+[0.659s] running symlink_data
+[0.676s] Invoked command in '/home/rokey/rokey_ws/build/mini_pjt' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/mini_pjt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/mini_pjt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey_ws/build/mini_pjt/build --no-deps symlink_data

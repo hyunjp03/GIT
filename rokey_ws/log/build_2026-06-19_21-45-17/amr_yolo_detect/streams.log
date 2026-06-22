@@ -1,0 +1,32 @@
+[1.012s] Invoking command in '/home/rokey/rokey_ws/src/amr_yolo_detect': PYTHONPATH=/home/rokey/rokey_ws/build/amr_yolo_detect/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_yolo_detect build --build-base /home/rokey/rokey_ws/build/amr_yolo_detect/build install --record /home/rokey/rokey_ws/build/amr_yolo_detect/install.log --single-version-externally-managed install_data
+[1.157s] running egg_info
+[1.158s] writing ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/PKG-INFO
+[1.158s] writing dependency_links to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/dependency_links.txt
+[1.158s] writing entry points to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/entry_points.txt
+[1.158s] writing requirements to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/requires.txt
+[1.158s] writing top-level names to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/top_level.txt
+[1.159s] reading manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+[1.159s] writing manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+[1.159s] running build
+[1.159s] running build_py
+[1.159s] copying amr_yolo_detect/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.160s] copying amr_yolo_detect/yolo_publisher_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.160s] copying amr_yolo_detect/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+[1.160s] running install
+[1.160s] running install_lib
+[1.160s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.160s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolo_publisher_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.160s] copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+[1.160s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolov8_obj_det_amr.py to yolov8_obj_det_amr.cpython-310.pyc
+[1.161s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolo_publisher_amr.py to yolo_publisher_amr.cpython-310.pyc
+[1.162s] byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolo_subscriber_amr.py to yolo_subscriber_amr.cpython-310.pyc
+[1.162s] running install_data
+[1.162s] running install_egg_info
+[1.164s] removing '/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect-0.0.0-py3.10.egg-info' (and everything under it)
+[1.164s] Copying ../../build/amr_yolo_detect/amr_yolo_detect.egg-info to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect-0.0.0-py3.10.egg-info
+[1.164s] running install_scripts
+[1.177s] Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+[1.177s] Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+[1.177s] Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+[1.177s] writing list of installed files to '/home/rokey/rokey_ws/build/amr_yolo_detect/install.log'
+[1.198s] Invoked command in '/home/rokey/rokey_ws/src/amr_yolo_detect' returned '0': PYTHONPATH=/home/rokey/rokey_ws/build/amr_yolo_detect/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/amr_yolo_detect build --build-base /home/rokey/rokey_ws/build/amr_yolo_detect/build install --record /home/rokey/rokey_ws/build/amr_yolo_detect/install.log --single-version-externally-managed install_data

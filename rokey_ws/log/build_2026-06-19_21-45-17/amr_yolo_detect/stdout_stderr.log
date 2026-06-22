@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/PKG-INFO
+writing dependency_links to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/dependency_links.txt
+writing entry points to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/entry_points.txt
+writing requirements to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/requires.txt
+writing top-level names to ../../build/amr_yolo_detect/amr_yolo_detect.egg-info/top_level.txt
+reading manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+writing manifest file '../../build/amr_yolo_detect/amr_yolo_detect.egg-info/SOURCES.txt'
+running build
+running build_py
+copying amr_yolo_detect/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+copying amr_yolo_detect/yolo_publisher_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+copying amr_yolo_detect/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect
+running install
+running install_lib
+copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolov8_obj_det_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolo_publisher_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+copying /home/rokey/rokey_ws/build/amr_yolo_detect/build/lib/amr_yolo_detect/yolo_subscriber_amr.py -> /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect
+byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolov8_obj_det_amr.py to yolov8_obj_det_amr.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolo_publisher_amr.py to yolo_publisher_amr.cpython-310.pyc
+byte-compiling /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect/yolo_subscriber_amr.py to yolo_subscriber_amr.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/amr_yolo_detect/amr_yolo_detect.egg-info to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/python3.10/site-packages/amr_yolo_detect-0.0.0-py3.10.egg-info
+running install_scripts
+Installing yolo_publisher_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+Installing yolo_subscriber_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+Installing yolov8_obj_det_amr script to /home/rokey/rokey_ws/install/amr_yolo_detect/lib/amr_yolo_detect
+writing list of installed files to '/home/rokey/rokey_ws/build/amr_yolo_detect/install.log'

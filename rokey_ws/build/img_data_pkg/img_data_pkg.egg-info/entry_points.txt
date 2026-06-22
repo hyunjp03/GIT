@@ -1,0 +1,6 @@
+[console_scripts]
+data_publisher = img_data_pkg.2_0_c_data_publisher:main
+data_subscriber = img_data_pkg.2_0_d_data_subscriber:main
+image_publisher = img_data_pkg.2_0_a_image_publisher:main
+image_subscriber = img_data_pkg.2_0_b_image_subscriber:main
+
